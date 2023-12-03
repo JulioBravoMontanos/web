@@ -1,70 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-<h2>Filtros: Camaras de fotos</h2>
-<br>
-<br>
-
-
-
-    <fieldset>
-        
-        <label for="precio">Precio (entre 0 y 1578): </label>
-        <input type="range" id="precio" name="precio" min="0" max="1578">
-        <br>
-        <br>
-       
-
-        <select name="marca">
-            <option value="" aria-label="marca" disabled selected>Seleccione marca</option>
-            <option value="0">Sony</option>
-            <option value="1">Samsung</option>
-            <option value="2">Nikon</option>
-            <option value="3">Canon</option>
-            <option value="4">Fuji</option>
-
-        </select>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        <h2>Filtros: Camaras de fotos</h2>
         <br>
         <br>
 
+        <fieldset>
 
-        <select name="fotometro">
-            <option value="" aria-label="fotometro" disabled selected>Fotometro o exposimetro incorporado</option>
-            <option value="0">Sí</option>
-            <option value="1">No</option>
-            
-        </select>
-        <br>
-        <br>
-        <select name="diafragmas">
-            <option value="" aria-label="diafragmas" disabled selected>Diafragmas</option>
-            <option value="0">Diafragmas abiertos</option>
-            <option value="1">Diafragmas cerrados</option>
-        </select>
-        <br>
-        <br>
-        <select name="Enfoque">
-            <option value="" aria-label="enfoque" disabled selected>Tipo de enfoque</option>
-            <option value="0">Por telémetro</option>
-            <option value="1">Telémetro en imagen partida</option>
-            <option value="2">Anillo de micro prismas</option>
-            <option value="3">Pantalla de campo mate</option>
-        </select>
-        <br>
-        <br>
-        <br>
-        <br>
-        <button type="submit">Filtrar</button>
+            <label for="precio">Precio (entre 0 y 1578): </label>
+            <input type="range" id="precio" name="precio" min="0" max="1578">
+            <br>
+            <br>
 
-    </fieldset>
-      
+            <select name="marca">
+                <option value aria-label="marca" disabled selected>Seleccione
+                    marca</option>
+                <option value="0">Sony</option>
+                <option value="1">Samsung</option>
+                <option value="2">Nikon</option>
+                <option value="3">Canon</option>
+                <option value="4">Fuji</option>
 
+            </select>
+            <br>
+            <br>
 
- 
-</body>
+            <select name="fotometro">
+                <option value aria-label="fotometro" disabled selected>Fotometro
+                    o exposimetro incorporado</option>
+                <option value="0">Sí</option>
+                <option value="1">No</option>
+
+            </select>
+            <br>
+            <br>
+            <select name="diafragmas">
+                <option value aria-label="diafragmas" disabled selected>Diafragmas</option>
+                <option value="0">Diafragmas abiertos</option>
+                <option value="1">Diafragmas cerrados</option>
+            </select>
+            <br>
+            <br>
+            <select name="Enfoque">
+                <option value aria-label="enfoque" disabled selected>Tipo de
+                    enfoque</option>
+                <option value="0">Por telémetro</option>
+                <option value="1">Telémetro en imagen partida</option>
+                <option value="2">Anillo de micro prismas</option>
+                <option value="3">Pantalla de campo mate</option>
+            </select>
+            <br>
+            <br>
+            <br>
+            <br>
+            <button type="submit">Filtrar</button>
+
+        </fieldset>
+
+    </body>
 </html>
