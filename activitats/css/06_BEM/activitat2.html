@@ -6,24 +6,41 @@
     <title>Document</title>
   </head>
   <body>
+<style>
 
+.boton {
+    border-radius: 2rem;
+    background: white;
+    color: black;
+    border: 1px solid black;
+}
+.nom{
+font-size: medium;
+font-family: Arial
+}
+.comentari{
+font-size: small;
+font-family: Arial
+}
+
+</style>
 
     <h1>Comentarios</h1>
 
     <form>
 
-        <label>Nombre:
+        <label class="nom">Nombre:
         <input type="text" name="nombre">
     </label>
         <br>
         <br>
-        <label >Comentario:</label>
+        <label class="comentari" >Comentario:</label>
         <textarea name="comentario" rows="4"></textarea>
     </label>
     <br>
     <br>
 
-        <button type="boton">Comentar</button>
+        <button class="boton">Comentar</button>
     </form>
 
 
