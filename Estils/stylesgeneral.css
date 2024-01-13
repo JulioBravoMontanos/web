@@ -2,20 +2,20 @@ html,body{
     height: 100%;
     width: 100%;
 }
-
-.header {
-
+.header{
     display: flex;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    border: 2px solid rgb(28, 40, 207);
+    border: 2px solid black;
+    border-radius: 2em;
     font-weight: bold;
     text-align: center;
     padding: 1em;
-    width: 100%;
-    height: 10%;
-    border-radius: 2em;
     font-size: medium;
     position: fixed;
+    width: 100%;
+    height: 10%;
+    background-color: rgb(194, 215, 248)
+
 }
 
 .main {
@@ -23,19 +23,21 @@ display: flex;
 padding: 2em;
 width: 100%;
 height: 80%;
+background-color: rgb(175, 204, 230);
 
 }
 .footer {
 
     display: flex;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    border: 2px solid rgb(28, 40, 207);
+    border: 2px solid black;
     font-style: italic;
+    font-size: small;
     border-radius: 2em;
     padding: 1em;
     width: 100%;
     height: 10%;
-    
+    background-color: rgb(194, 215, 248)
  
 }
 .menu {
@@ -49,8 +51,8 @@ height: 80%;
     text-align: center;
     font-size: large;
     border-radius: 5px;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 2%;
+    margin-right: 2%;
    height: 30px;
    width: 100px;
    text-decoration: none;
@@ -60,8 +62,8 @@ height: 80%;
 }
 .contacto{
    padding: 10px;
-    color: rgb(29, 70, 207);
-    border: 2px solid rgb(29, 70, 207);
+    color: rgb(105, 139, 252);
+    border: 5px solid rgb(105, 139, 252);
     text-align: center;
     font-size: 2rem;
     border-radius:2em;
@@ -70,6 +72,9 @@ height: 80%;
 height: fit-content;
 width: fit-content;
 box-sizing: border-box;
- 
+}
+.register{
 
+    padding: 30px;
+    margin-left: 20%;
 }
