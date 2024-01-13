@@ -10,7 +10,7 @@ html,body{
     background-color: rgb(211, 222, 236);
     border: 1px solid black;
     font-weight: bold;
-
+    text-align: center;
     padding: 1em;
     width: 100%;
     height: 10%;
@@ -38,4 +38,38 @@ height: 80%;
     height: 10%;
     
  
+}
+.menu {
+
+   
+    padding: 10px 10px;
+    background-color: #98c0f5;
+    color: rgb(29, 70, 207);
+    border: 1px solid black;
+    text-align: center;
+    font-size: medium;
+    border-radius: 5px;
+    margin-left: 5%;
+    margin-right: 5%;
+   height: 30px;
+   width: 100px;
+  
+  
+
+}
+.contacto{
+    padding: 10px 10px;
+    background-color: #98c0f5;
+    color: rgb(255, 255, 255);
+    background-color: blue;
+    border: 1px solid black;
+    text-align: center;
+    font-size: medium;
+    border-radius:50%;
+    margin-left: 15%;
+    margin-right: 5%;
+   height: 70px;
+   width: 70px;
+ 
+
 }
