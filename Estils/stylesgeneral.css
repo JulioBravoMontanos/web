@@ -42,16 +42,18 @@ height: 80%;
 
    
     padding: 30px;
+    font-family: Arial, Helvetica, sans-serif;
 
     color: rgb(29, 70, 207);
     font-style: italic;
     text-align: center;
-    font-size: medium;
+    font-size: large;
     border-radius: 5px;
     margin-left: 5%;
     margin-right: 5%;
    height: 30px;
    width: 100px;
+   text-decoration: none;
   
   
 
