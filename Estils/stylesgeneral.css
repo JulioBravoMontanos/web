@@ -1,17 +1,20 @@
+
 html,body{
     height: 100%;
     width: 100%;
 }
+
+
 .header{
     display: flex;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border: 2px solid black;
     border-radius: 2em;
     font-weight: bold;
     text-align: center;
     padding: 1em;
     font-size: medium;
-    position: fixed;
+    position: sticky;
     width: 100%;
     height: 10%;
     background-color: rgb(194, 215, 248)
@@ -22,7 +25,8 @@ html,body{
    
     padding: 30px;
     font-family: Arial, Helvetica, sans-serif;
-
+    border: 2px dotted rgb(105, 139, 252); 
+    border-radius: 2em;
     color: rgb(29, 70, 207);
     font-style: italic;
     text-align: center;
@@ -30,8 +34,6 @@ html,body{
     border-radius: 5px;
     margin-left: 2%;
     margin-right: 2%;
-   height: 30px;
-   width: 100px;
    text-decoration: none;
   
   
@@ -42,6 +44,7 @@ html,body{
     color: rgb(105, 139, 252);
     border: 5px solid rgb(105, 139, 252);
     text-align: center;
+    text-decoration: none;
     font-size: 2rem;
     border-radius:2em;
     margin-left: 15%;
@@ -55,24 +58,38 @@ box-sizing: border-box;
 .main {
 width: 100%;
 height: 80%;
-display: flex;
+display: inline-block;
 padding: 2em;
 background-color: rgb(175, 204, 230);
 }
-.aboutme{
-font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-font-size: medium;
-padding: 10px;
+.divmain1{
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: x-large;
+
+
 }
+.imagen{
+    height: 300px;
+    width:300px;
+    margin-left: 7rem;
+    
+  }
+  .fontblue{
+ color: rgb(105, 139, 252);
+
+  }
+
 .list {
     border: 1px solid black;
-      width: 70px;
-      height: 10px; 
+    width: 700px;;
+     height: auto;
       padding: 1rem;
       background-color:rgb(194, 215, 248);
       display: flex;
       align-items: center;
       justify-content: center;
+      font-size: x-large;
     }
     .list:hover {
       background-color: #6281c4; 
@@ -91,4 +108,8 @@ padding: 10px;
     height: 10%;
     background-color: rgb(194, 215, 248)
  
+}
+.register {
+padding: 30px;
+   margin-left: 15rem;
 }
