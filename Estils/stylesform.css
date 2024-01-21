@@ -1,0 +1,42 @@
+.formulari {
+    width: 600px;
+    border: 2px solid #03312E;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.texto {
+    width: 50%;
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid  #03312E;
+    font-family: Arial, sans-serif;
+    font-size: large;
+}
+
+
+.boto {
+    background-color:  #03312E;
+    color: #94e2e0;
+    border: none;
+    cursor: pointer;
+    height: 30px;
+    width: 120px;
+    margin-left: 40%;
+   
+}
+.mail{
+    font-size:larger;
+    margin-left: 10rem;
+    color: #03312E;
+   
+
+}
+.imagenform{
+
+    height: 250px;
+    width:250px;
+    margin-left: 20%;
+    
+    
+  }
