@@ -61,18 +61,22 @@ height: 80%;
 display: inline-block;
 padding: 2em;
 background-color: rgb(175, 204, 230);
+border: 2px solid black;
+border-radius: 2em;
 }
 .divmain1{
     display: flex;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: x-large;
+  font-size: large;
+  margin-bottom: 2rem;
 
 
 }
 .imagen{
-    height: 300px;
-    width:300px;
-    margin-left: 7rem;
+    height: 250px;
+    width:250px;
+    margin-left: 20rem;
+    margin-top: 10rem;
     
   }
   .fontblue{
@@ -82,14 +86,16 @@ background-color: rgb(175, 204, 230);
 
 .list {
     border: 1px solid black;
-    width: 700px;;
+    width: 400px;;
      height: auto;
       padding: 1rem;
       background-color:rgb(194, 215, 248);
       display: flex;
       align-items: center;
       justify-content: center;
-      font-size: x-large;
+      font-size: large;
+      margin-left: 4rem;
+      
     }
     .list:hover {
       background-color: #6281c4; 

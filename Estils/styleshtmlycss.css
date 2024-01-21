@@ -5,10 +5,9 @@
      border: 10px solid rgb(105, 139, 252);
      text-align: center;
      text-decoration:dotted;
-     font-size: 4rem;
+     font-size: 2rem;
      border-radius:50%;
-     margin-left: 15%;
-     margin-top: 5%;
+     margin-left: 5%;
  height: fit-content;
  width: fit-content;
  box-sizing: border-box;
@@ -18,4 +17,10 @@
 text-align: left;
 padding: 30px;
  }
- 
+ .imagenhtmlcss{
+    height: 250px;
+    width:250px;
+    margin-left: 5rem;
+    margin-top: 10rem;
+    
+  }
