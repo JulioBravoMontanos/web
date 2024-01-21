@@ -27,7 +27,7 @@ html,body{
     font-family: Arial, Helvetica, sans-serif;
     border: 2px groove #03312E; 
     border-radius: 2em;
-    color:#02C3BD;
+    color:#b4eeea;
     font-style: italic;
     text-align: center;
     font-size: large;
@@ -35,6 +35,7 @@ html,body{
     margin-left: 2%;
     margin-right: 2%;
    text-decoration: none;
+   background-color:#03312E;
  
   
   
@@ -43,7 +44,7 @@ html,body{
 }
 .contacto{
    padding: 10px;
-    color: #02C3BD;
+    color: #94e2e0;
     border: 5px solid #03312E;
     text-align: center;
     text-decoration: none;
@@ -54,6 +55,7 @@ html,body{
 height: fit-content;
 width: fit-content;
 box-sizing: border-box;
+background-color:#0c4e4a;
 }
 
 
@@ -62,7 +64,7 @@ width: 100%;
 height: 80%;
 display: inline-block;
 padding: 2em;
-background-color:#00B9AE;
+background-color:#8BE2DC;
 border: 2px solid black;
 border-radius: 2em;
 
