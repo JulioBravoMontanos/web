@@ -17,7 +17,7 @@ html,body{
     position: sticky;
     width: 100%;
     height: 10%;
-    background-color: rgb(194, 215, 248)
+    background-color:#037171;
 
 }
 .menu {
@@ -25,9 +25,9 @@ html,body{
    
     padding: 30px;
     font-family: Arial, Helvetica, sans-serif;
-    border: 2px dotted rgb(105, 139, 252); 
+    border: 2px groove #03312E; 
     border-radius: 2em;
-    color: rgb(29, 70, 207);
+    color:#02C3BD;
     font-style: italic;
     text-align: center;
     font-size: large;
@@ -35,14 +35,16 @@ html,body{
     margin-left: 2%;
     margin-right: 2%;
    text-decoration: none;
+ 
+  
   
   
 
 }
 .contacto{
    padding: 10px;
-    color: rgb(105, 139, 252);
-    border: 5px solid rgb(105, 139, 252);
+    color: #02C3BD;
+    border: 5px solid #03312E;
     text-align: center;
     text-decoration: none;
     font-size: 2rem;
@@ -60,9 +62,10 @@ width: 100%;
 height: 80%;
 display: inline-block;
 padding: 2em;
-background-color: rgb(175, 204, 230);
+background-color:#00B9AE;
 border: 2px solid black;
 border-radius: 2em;
+
 }
 .divmain1{
     display: flex;
@@ -76,11 +79,11 @@ border-radius: 2em;
     height: 250px;
     width:250px;
     margin-left: 20rem;
-    margin-top: 10rem;
+    margin-top: 5rem;
     
   }
-  .fontblue{
- color: rgb(105, 139, 252);
+  .fontgreen{
+ color:#03312E;
 
   }
 
@@ -89,7 +92,7 @@ border-radius: 2em;
     width: 400px;;
      height: auto;
       padding: 1rem;
-      background-color:rgb(194, 215, 248);
+      background-color:#02C3BD;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -98,7 +101,7 @@ border-radius: 2em;
       
     }
     .list:hover {
-      background-color: #6281c4; 
+      background-color: #037171; 
     }
 
 .footer {
@@ -112,7 +115,7 @@ border-radius: 2em;
     padding: 1em;
     width: 100%;
     height: 10%;
-    background-color: rgb(194, 215, 248)
+    background-color:#037171;
  
 }
 .register {
