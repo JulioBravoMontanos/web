@@ -67,6 +67,7 @@ padding: 2em;
 background-color:#8BE2DC;
 border: 2px solid black;
 border-radius: 2em;
+overflow: auto;
 
 }
 .divmain1{
