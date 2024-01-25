@@ -4,13 +4,9 @@
      background-color:#52eee9;
      border: 10px solid #03312E;
      text-align: center;
-     text-decoration:dotted;
      font-size: 2rem;
      border-radius:50%;
      margin-left: 5%;
- height: fit-content;
- width: fit-content;
- box-sizing: border-box;
  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.397);
  }
  .parrafohtml{
@@ -21,6 +17,6 @@ padding: 30px;
     height: 250px;
     width:250px;
     margin-left: 5rem;
-    margin-top: 10rem;
+    margin-top: 2rem;
     
   }
