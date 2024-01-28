@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+  </head>
+  <body>
+<style>
+.circulo1 {
+width: 100px;
+height: 100px;
+border-radius: 50%;
+background-color: yellow;
+position: absolute;
+top: 50%;
+left: 50%;
+
+}
+
+        @keyframes eclipse {
+      0% {
+        transform: translateX(100px);
+      } 
+      50% {
+        transform: translateX(5%);
+      }
+      100% {
+        transform: translateX(100px);
+      }        
+    }
+
+.circulo2 {
+width: 100px;
+height: 100px;
+border-radius: 50%;
+background-color: silver;
+position: absolute;
+top: 50%;
+left: 45%;
+animation: eclipse;
+animation-duration: 3s;
+animation-timing-function: linear;
+animation-iteration-count: infinite;
+}
+     </style>
+
+    <p class="circulo1"></p>  <p class="circulo2"></p>
+
+  </body>
+</html>

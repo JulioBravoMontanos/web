@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+  </head>
+  <body>
+    <style>
+      .noria {
+        width: 400px;
+        height: 400px;
+        border-radius: 50%;
+        background-color: gray;
+        position: absolute;
+        animation: rotacion 10s linear infinite;
+       
+      }
+  
+      .asiento1 {
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        background-color: black;
+        position: relative;
+        margin-left: 11em;
+     
+       
+      }
+      .asiento2 {
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        background-color: black;
+        position: relative;
+        margin-left: 21.5em;
+        margin-top: 11em;
+     
+        }
+      .asiento3 {
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        background-color: black;
+        position: relative;
+        margin-left: 28px;
+      
+      }
+  
+      @keyframes rotacion {
+        0% {
+          transform: rotate(0deg);
+        }
+        100% {
+          transform: rotate(360deg);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="noria">
+  
+      <div class="asiento1"></div>
+      <div class="asiento2"></div>
+      <div class="asiento3"></div>
+    </div>
+
+  </body>
+</html>
