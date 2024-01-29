@@ -1,5 +1,5 @@
 html{
-  background-color: #91bbc1;
+  background-color:rgb(195, 227, 238);
   overflow: scroll;
 }
 .header{
@@ -10,6 +10,7 @@ html{
     font-size: medium;
     position: sticky;
     width: 100%;
+    background-color: #91bbc1;
  
     
 
@@ -134,7 +135,7 @@ border: 2px ;
     font-size: small;
     padding: 30px;
     width: 100%;
-    
+    background-color: #91bbc1;
  
 }
 .register {
