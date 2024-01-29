@@ -6,7 +6,7 @@ html{
     display: flex;
     border: 2px;
     text-align: center;
-    padding:30px;
+    padding:20px;
     font-size: medium;
     position: sticky;
     width: 100%;
@@ -17,17 +17,29 @@ html{
 }
 .textomain{
   margin-left: 2em;
-margin-top: 5rem;
+margin-top: 2rem;
 font-family: unset;
-  font-size: xx-large;
+  font-size: x-large;
   color: #2f3e44;
  
+
+}
+.resaltar{
+  margin-left: 2em;
+margin-top: 2rem;
+font-family: unset;
+  font-size: xx-large;
+color:#03312E;
+text-shadow:  
+1px 1px 2px black,
+0 0 1em #91bbc1,
+0 0 0.2em #91bbc1;;
 
 }
 .menu {
 
    
-    padding: 30px;
+    padding: 10px;
    font-family: Georgia, 'Times New Roman', Times, serif;
     border: 2px; 
     border-radius: 10px;
@@ -91,7 +103,7 @@ border: 2px ;
 
     height: 250px;
     width:250px;
-    margin-top: 5rem;
+    margin-top: 3rem;
     margin-left: 9rem;
     margin-right: 5rem;
     border-width: 3px;
@@ -109,12 +121,12 @@ border: 2px ;
     font-family: fantasy;
     width: 400px;;
      height: auto;
-      padding:30px;
+      padding:10px;
       display: flex;
       align-items: center;
       justify-content: center;
      text-decoration: none;
-      font-size: x-large;
+      font-size: 1.2rem ;
       margin-left: 4rem;
       color: #2f3e44;
       
@@ -133,7 +145,7 @@ border: 2px ;
     border: 2px ;
     font-style: italic;
     font-size: small;
-    padding: 30px;
+    padding: 15px;
     width: 100%;
     background-color: #91bbc1;
  
