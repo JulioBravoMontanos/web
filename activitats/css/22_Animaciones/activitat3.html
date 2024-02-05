@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+  </head>
+  <body>
+<style>
+#cookiebanner {
+  position: fixed;
+  bottom: -90px;
+  left: 0;
+  right: 0;
+  background-color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+@keyframes animacion {
+
+0% {
+  opacity: 30%;
+}
+
+50% {
+    opacity: 60%;
+}
+
+100% {
+  opacity: 100%;
+}
+
+}
+
+#cookiebanner {
+  bottom: 0;
+  animation-name: animacion;
+
+  animation-duration: 5s;
+  
+  
+}
+
+
+
+     </style>
+<div id="cookiebanner">
+    Este sitio web utiliza cookies.
+    <button>Aceptar</button>
+  </div>
+  
+
+  </body>
+</html>
