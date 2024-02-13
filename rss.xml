@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss">
+
+
+<channel>
+  <title>Noticias Julio</title>
+  <link>https://www.w3schools.com</link>
+  <description>Super noticias de tecnología</description>
+  <item>
+    <title>Cómo la inteligencia artificial y los estafadores buscan desplumarte este San Valentín</title>
+    <link>https://www.abc.es/tecnologia/inteligencia-artificial-estafadores-buscan-desplumarte-san-valentin-20240213130434-nt.html</link>
+    <description>De acuerdo con varias empresas de ciberseguridad, los ciberataques contra los usuarios empleando como gancho el día de los enamorados serán más habituales este año</description>
+    <image>
+  <link>https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2024/02/13/ataque-san-valentin-RKCDwkko2aMzJN6JhI9jWQL-1200x840@abc.jpg</link>
+  <title>Corazones</title>
+  <url>https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2024/02/13/ataque-san-valentin-RKCDwkko2aMzJN6JhI9jWQL-1200x840@abc.jpg</url>
+</image>
+<media:group>
+<media:content url="Imatges/Julio Alberto Bravo Montanos.jpg" type="jpg" height="400" width="300" />
+<media:title>Imatge amb el meu nom </media:title>
+</media:group>
+  </item>
+  
+  <item>
+    <title>El mercado de los televisores ha estado dominado durante años por Corea y Japón. Ahora tienen un nuevo rival: China</title>
+    <link>https://www.xataka.com/televisores/china-esta-lista-para-dominar-el-mercado-de-los-televisores-japon-y-corea-del-sur-van-a-tener-que-pelear-duro</link>
+    <description>Las chinas BOE y TCL persiguen producir conjuntamente el 55,3% de los paneles LCD 
+Es probable que antes de que concluya 2025 estas marcas irrumpan en el mercado de los televisores OLED</description>
+    <image>
+  <link>https://i.blogs.es/a160c2/tclchina-ap/1200_800.jpeg</link>
+  <title>Television</title>
+  <url>https://i.blogs.es/a160c2/tclchina-ap/1200_800.jpeg</url>
+</image>
+  </item>
+  
+    <item>
+    <title>TikTok se cansa de los vídeos verticales y ahora busca ser como Youtube</title>
+    <link>https://www.elmundo.es/tecnologia/2024/01/30/65b957a1e85eced6198b459e.html</link>
+    <description>La compañía destacará a los creadores que apuesten por el vídeo horizontal de larga duración.</description>
+    <image>
+  <link>https://phantom-elmundo.unidadeditorial.es/a26f2b3dd65a519e352e15b8f4d6c9c5/resize/920/f/webp/assets/multimedia/imagenes/2024/01/30/17066456121284.jpg</link>
+  <title>Tiktok</title>
+  <url>https://phantom-elmundo.unidadeditorial.es/a26f2b3dd65a519e352e15b8f4d6c9c5/resize/920/f/webp/assets/multimedia/imagenes/2024/01/30/17066456121284.jpg</url>
+</image>
+  </item>
+  
+</channel>
+</rss>
