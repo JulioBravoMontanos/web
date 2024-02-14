@@ -7,15 +7,16 @@
   <title>Noticias Julio</title>
   <link>https://www.w3schools.com</link>
   <description>Super noticias de tecnología</description>
+  <image>
+    <link>https://www.abc.es</link>
+    <title>Corazones</title>
+    <url>https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2024/02/13/ataque-san-valentin-RKCDwkko2aMzJN6JhI9jWQL-1200x840@abc.jpg</url>
+  </image>
   <item>
     <title>Cómo la inteligencia artificial y los estafadores buscan desplumarte este San Valentín</title>
     <link>https://www.abc.es/tecnologia/inteligencia-artificial-estafadores-buscan-desplumarte-san-valentin-20240213130434-nt.html</link>
     <description>De acuerdo con varias empresas de ciberseguridad, los ciberataques contra los usuarios empleando como gancho el día de los enamorados serán más habituales este año</description>
-    <image>
-  <link>https://www.abc.es</link>
-  <title>Corazones</title>
-  <url>https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2024/02/13/ataque-san-valentin-RKCDwkko2aMzJN6JhI9jWQL-1200x840@abc.jpg</url>
-</image>
+  
 <media:group>
 <media:content url="Imatges/Julio Alberto Bravo Montanos.jpg"  type="image/jpeg" height="400" width="300"></media:content>
 <media:title>Imatge amb el meu nom </media:title>
