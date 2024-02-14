@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/">
+  <title>Noticias Julio</title>
+  <link href="https://juliobravomontanos.github.io/web/atom.xml"  type="application/rss+xml" />
+  <subtitle>Super noticias de tecnología</subtitle>
+  <updated>2024-02-01T02:07:14+00:00</updated>
+    <title>Noticias Julio</title>
+    <rights>COPYRIGHT</rights>
+    <id>https://juliobravomontanos.github.io/web/atom.xml</id>
+    <author>Julio</author>
+    <url>https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2024/02/13/ataque-san-valentin-RKCDwkko2aMzJN6JhI9jWQL-1200x840@abc.jpg</url>
+  <entry>
+    <updated>2024-02-01T02:07:14+00:00</updated>
+    <title>Cómo la inteligencia artificial y los estafadores buscan desplumarte este San Valentín</title>
+    <link href = "https://www.abc.es/tecnologia/inteligencia-artificial-estafadores-buscan-desplumarte-san-valentin-20240213130434-nt.html"/>
+    <id>https://www.abc.es/tecnologia/inteligencia-artificial-estafadores-buscan-desplumarte-san-valentin-20240213130434-nt.html</id>
+    <summary>De acuerdo con varias empresas de ciberseguridad, los ciberataques
+       contra los usuarios empleando como gancho el día de los 
+       enamorados serán más habituales este año
+      </summary>
+      <rights>COPYRIGHT</rights>
+<media:group>
+  <media:content url="https://juliobravomontanos.github.io/web/Imatges/JulioAlbertoBravoMontanos.jpg"  type="image/jpeg" height="200" width="200"></media:content>
+<media:title>Imatge amb el meu nom </media:title>
+</media:group>
+  </entry>
+  
+  <entry>
+    <updated>2024-02-01T02:07:14+00:00</updated>
+    
+<title>El mercado de los televisores ha estado dominado durante años por Corea y Japón. Ahora tienen un nuevo rival: China</title>
+<link href = "https://www.xataka.com/televisores/china-esta-lista-para-dominar-el-mercado-de-los-televisores-japon-y-corea-del-sur-van-a-tener-que-pelear-duro"/>
+   <id>https://www.xataka.com/televisores/china-esta-lista-para-dominar-el-mercado-de-los-televisores-japon-y-corea-del-sur-van-a-tener-que-pelear-duro</id>
+<summary>Las chinas BOE y TCL persiguen producir conjuntamente el 55,3% de los paneles LCD 
+Es probable que antes de que concluya 2025 estas marcas irrumpan en el mercado de los televisores OLED</summary>
+<rights>COPYRIGHT</rights>
+<media:group>
+<media:content url="https://i.blogs.es/a160c2/tclchina-ap/1200_800.jpeg"  type="image/jpeg" height="400" width="300"></media:content>
+<media:title>Paneles LCD </media:title>
+</media:group>
+  </entry>
+  
+    <entry>
+        <updated>2024-02-01T02:07:14+00:00</updated>
+    <title>TikTok se cansa de los vídeos verticales y ahora busca ser como Youtube</title>
+    <link href = "https://www.elmundo.es/tecnologia/2024/01/30/65b957a1e85eced6198b459e.html"/>
+    <id>https://www.elmundo.es/tecnologia/2024/01/30/65b957a1e85eced6198b459e.html</id>
+    <summary>La compañía destacará a los creadores que apuesten por el vídeo horizontal de larga duración.</summary>
+    <rights>COPYRIGHT</rights>
+<media:group>
+<media:content url="https://phantom-elmundo.unidadeditorial.es/a26f2b3dd65a519e352e15b8f4d6c9c5/resize/920/f/webp/assets/multimedia/imagenes/2024/01/30/17066456121284.jpg"  type="image/jpeg" height="400" width="300"></media:content>
+<media:title>Tiktok </media:title>
+</media:group>
+  </entry>
+  
+</feed>
