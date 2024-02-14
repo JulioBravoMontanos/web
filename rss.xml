@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
+
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="https://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 
 
 <channel>
   <title>Noticias Julio</title>
+  <atom:link href="https://juliobravomontanos.github.io/web/rss.xml"  type="application/rss+xml" />
   <link>https://juliobravomontanos.github.io/web/rss.xml</link>
   <description>Super noticias de tecnología</description>
   <image>
     <link>https://www.abc.es</link>
-    <title>Corazones</title>
+    <title>Noticias Julio</title>
     <url>https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2024/02/13/ataque-san-valentin-RKCDwkko2aMzJN6JhI9jWQL-1200x840@abc.jpg</url>
   </image>
   <item>
