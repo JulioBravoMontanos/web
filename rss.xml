@@ -17,7 +17,7 @@
   <url>https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2024/02/13/ataque-san-valentin-RKCDwkko2aMzJN6JhI9jWQL-1200x840@abc.jpg</url>
 </image>
 <media:group>
-<media:content url="Imatges/Julio Alberto Bravo Montanos.jpg"  type="image/jpeg" height="400" width="300" />
+<media:content url="Imatges/Julio Alberto Bravo Montanos.jpg"  type="image/jpeg" height="400" width="300"></media:content>
 <media:title>Imatge amb el meu nom </media:title>
 </media:group>
   </item>
