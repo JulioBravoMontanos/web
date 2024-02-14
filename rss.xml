@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
 
 
 <channel>
@@ -14,10 +14,10 @@
     <image>
   <link>https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2024/02/13/ataque-san-valentin-RKCDwkko2aMzJN6JhI9jWQL-1200x840@abc.jpg</link>
   <title>Corazones</title>
-  <url>https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2024/02/13/ataque-san-valentin-RKCDwkko2aMzJN6JhI9jWQL-1200x840@abc.jpg</url>
+  <url>https://www.abc.es/tecnologia/inteligencia-artificial-estafadores-buscan-desplumarte-san-valentin-20240213130434-nt.html</url>
 </image>
 <media:group>
-<media:content url="Imatges/Julio Alberto Bravo Montanos.jpg" type="jpg" height="400" width="300" />
+<media:content url="Imatges/Julio Alberto Bravo Montanos.jpg" height="400" width="300" />
 <media:title>Imatge amb el meu nom </media:title>
 </media:group>
   </item>
